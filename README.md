@@ -1,4 +1,6 @@
- Paid Advertising Strategy – OneOhOne Jewelry
+[← Back to portfolio](https://github.com/BettyjannehDigital)
+
+# Paid Advertising Strategy – OneOhOne Jewelry
 
 **Assignment | Noroff Digital Marketing | 2026**  
 **Brand:** OneOhOne Jewelry | **Platform:** Meta Ads (Instagram & Facebook)
@@ -14,15 +16,15 @@ This document outlines a paid advertising campaign strategy developed for OneOhO
 ## What's Inside
 
 | File | Description |
-|---|---|
-| `Paid_Advertising_Strategy_OneOhOne_Jewelry.pdf` | Full campaign brief including objective, audience targeting, ad creative, KPIs, and budget |
+| --- | --- |
+| [Paid Advertising Strategy OneOhOne Jewelry PDF.pdf](https://github.com/BettyjannehDigital/Paid-Advertising-Strategy-OneOhOne/blob/main/Paid%20Advertising%20Strategy%20OneOhOne%20Jewelry%20PDF.pdf) | Full campaign brief including objective, audience targeting, ad creative, KPIs, and budget |
 
 ---
 
 ## Campaign Details
 
 | Element | Detail |
-|---|---|
+| --- | --- |
 | **Objective** | Website traffic & brand awareness |
 | **Platform** | Instagram & Facebook (Meta Ads) |
 | **Budget** | 700 NOK total (100 NOK/day × 7 days) |
@@ -63,3 +65,8 @@ This document outlines a paid advertising campaign strategy developed for OneOhO
 🔗 [oneohonejewelry.com](https://www.oneohonejewelry.com)  
 📱 [@oneohonejewelry](https://www.instagram.com/oneohonejewelry)  
 🛒 [Etsy Shop](https://www.etsy.com/shop/oneohonejewelry)
+
+## Related Projects
+
+- [Marketing Strategy – OneOhOne Jewelry](https://github.com/BettyjannehDigital/OneOhOne-Jewelry-Marketing-Strategy)
+- [Social Media Marketing – OneOhOne Jewelry](https://github.com/BettyjannehDigital/SoMe--Marketing-OneOhOne)

@@ -60,6 +60,34 @@ This document outlines a paid advertising campaign strategy developed for OneOhO
 
 ---
 
+## Website Analytics (GA4)
+
+The landing page for this strategy is the OneOhOne Jewelry WordPress site built for the Noroff website optimisation assignment. I connected Google Analytics 4 to it to see what the traffic looked like. This is site-wide data read from GA4 on 25 October 2026 (1 January to 25 October 2026). It is **not** a campaign result report: I did not split the data by ad, and the numbers are very small.
+
+| Metric | Value |
+| --- | --- |
+| Sessions | 105 |
+| Active users | 100 |
+| Engaged sessions | 31 (29.5% engagement rate) |
+| Average engagement time per session | 2 seconds |
+| Key events / revenue | 0 / $0 |
+
+| Channel | Sessions | Engagement rate |
+| --- | --- | --- |
+| Direct | 62 | 3.2% |
+| Organic Social | 28 | 67.9% |
+| Email | 14 | 71.4% |
+| Referral | 1 | 0% |
+
+**What I learned**
+
+- Visitors from social and email engaged far more than direct visitors, who mostly left immediately. With this little traffic I treat Direct with caution (it can include untagged or automated visits).
+- The community sign-up page (51 views) drew almost as many views as the homepage (56), so the sign-up offer was the main thing people looked at.
+- No key events were recorded. Conversion tracking (for example a "Shop Now" click or checkout event) was not set up, so GA4 could not show whether traffic turned into sales. That is the first thing I would fix before judging any ad spend.
+- Setting a KPI list (clicks, CTR, CPC, impressions) is not enough on its own: the site needs matching tracking so those clicks can be followed through to behaviour on the site.
+
+---
+
 ## Brand
 
 🔗 [oneohonejewelry.com](https://www.oneohonejewelry.com)  
@@ -70,3 +98,5 @@ This document outlines a paid advertising campaign strategy developed for OneOhO
 
 - [Marketing Strategy – OneOhOne Jewelry](https://github.com/BettyjannehDigital/OneOhOne-Jewelry-Marketing-Strategy)
 - [Social Media Marketing – OneOhOne Jewelry](https://github.com/BettyjannehDigital/SoMe--Marketing-OneOhOne)
+
+*Last updated: 25 October 2026.*

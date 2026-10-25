@@ -62,7 +62,7 @@ This document outlines a paid advertising campaign strategy developed for OneOhO
 
 ## Website Analytics (GA4)
 
-The landing page for this strategy is the OneOhOne Jewelry WordPress site built for the Noroff website optimisation assignment. I connected Google Analytics 4 to it to see what the traffic looked like. This is site-wide data read from GA4 on 25 October 2026 (1 January to 25 October 2026). It is **not** a campaign result report: I did not split the data by ad, and the numbers are very small.
+The landing page for this strategy is the OneOhOne Jewelry WordPress site built for the Noroff website optimisation assignment. I connected Google Analytics 4 to it to see what the traffic looked like. This is site-wide data read from GA4 on 25 October 2026 (1 January to 25 October 2026). It is **not** a campaign result report: the 700 NOK test campaign described above was planned but never run, so none of this traffic came from paid ads, and the numbers are very small.
 
 | Metric | Value |
 | --- | --- |
@@ -81,6 +81,7 @@ The landing page for this strategy is the OneOhOne Jewelry WordPress site built 
 
 **What I learned**
 
+- The paid test was never launched, so this strategy is untested. The GA4 data below shows the baseline (organic and email traffic) the ads would have been added to.
 - Visitors from social and email engaged far more than direct visitors, who mostly left immediately. With this little traffic I treat Direct with caution (it can include untagged or automated visits).
 - The community sign-up page (51 views) drew almost as many views as the homepage (56), so the sign-up offer was the main thing people looked at.
 - No key events were recorded. Conversion tracking (for example a "Shop Now" click or checkout event) was not set up, so GA4 could not show whether traffic turned into sales. That is the first thing I would fix before judging any ad spend.
